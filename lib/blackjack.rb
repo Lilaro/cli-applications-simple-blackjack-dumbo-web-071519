@@ -34,11 +34,8 @@ def hit?(current_card_total)
     invalid_command
   elsif gets = 'h'
     deal_card
-    current_card_total
-  else if gets = 's'
-    current_card_total
   end
-  end
+  current_card_total
 end
 
 def invalid_command
