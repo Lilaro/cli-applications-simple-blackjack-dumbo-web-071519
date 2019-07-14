@@ -30,7 +30,6 @@ end
 
 def hit?(current_card_total)
   prompt_user
-  gets
   if gets != 's' || 'h'
     invalid_command
   elsif gets = 'h'
