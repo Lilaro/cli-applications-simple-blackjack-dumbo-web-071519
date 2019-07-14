@@ -38,6 +38,7 @@ def hit?(current_card_total)
   else if gets = 's'
     current_card_total
   end
+  end
 end
 
 def invalid_command
