@@ -50,8 +50,5 @@ end
 
 def runner
   welcome
-  initial_round
-  prompt_user
-  display_card_total(card_total)
 end
     
