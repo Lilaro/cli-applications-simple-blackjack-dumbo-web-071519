@@ -18,7 +18,7 @@ def get_user_input
   gets
 end
 
-def end_game
+def end_game(argument)
   # code #end_game here
 end
 
