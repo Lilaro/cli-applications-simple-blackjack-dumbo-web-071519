@@ -54,5 +54,6 @@ def runner
   until card_total == 21
     hit?
     if card_total == 
+      
 end
     
